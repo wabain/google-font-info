@@ -1,0 +1,5 @@
+/.font-cache/
+/google-font-info
+
+*.pb.go
+
